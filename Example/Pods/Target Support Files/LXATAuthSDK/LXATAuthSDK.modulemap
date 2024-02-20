@@ -1,0 +1,6 @@
+framework module LXATAuthSDK {
+  umbrella header "LXATAuthSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
